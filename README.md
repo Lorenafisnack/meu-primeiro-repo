@@ -2,5 +2,5 @@
 Repositório criado na aula de PI.
 
 ## minha lista de compras :smile:
-macarrão
-pão
+- macarrão
+- pão
